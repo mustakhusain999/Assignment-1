@@ -25,10 +25,3 @@ Subtraction= 5
 Multiplication= 50
 Division= 2.0
 
-##Task 2: Create a Personalized Greeting
-
-This program takes the user's first name and last name as input and prints a personalized greeting message.
-
-Enter your first name: John
-Enter your last name: Doe
-Hello, John Doe! welcome to the python program.
